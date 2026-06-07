@@ -116,8 +116,8 @@ sahai/
 
 ```bash
 # 1. Clone & install
-git clone https://github.com/your-org/sahai.git
-cd sahai && npm install
+git clone https://github.com/novarohan8-cyber/Mod_bot.git
+cd Mod_bot && npm install
 
 # 2. Configure environment
 cp .env.example .env
